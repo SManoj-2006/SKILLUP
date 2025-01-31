@@ -1,0 +1,17 @@
+You are given a number n, your task is to convert it to 1 in min no of operations ,the operations that are allowed are:
+1. You can divide the number by one of its factor(apart from 1 and n)
+2.Subtract 1 from the number
+given a number n. Find the min of operations needed to convert it to 1.
+Test Cases:
+	input: 25, output: 3
+	input: 3, output: 2
+	input: 1, output: 0 
+
+Minimum Badness
+--------------------------------------------
+WWW:0
+WWB:0
+WWRWWBWWR:2
+RRWBWBW:1
+WWRB:1
+
